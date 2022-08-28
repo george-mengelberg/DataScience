@@ -1,2 +1,2 @@
-# DataScience
-Repos of data science related code and Jupyter notebooks
+# Data Science
+Repos of Data Science related code and Jupyter notebooks
